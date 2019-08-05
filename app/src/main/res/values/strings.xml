@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Interview</string>
+    <string name="sq"> Simple Questions</string>
+    <string name="dq"> Difficult questions </string>
+    <string name="seeother"> See our other Apps </string>
+    <string name="rate"> Rate App </string>
+    <string name="sqno">XX/</string>
+    <string name="tqno">YY</string>
+    <string name="sque">Questions</string>
+    <string name="sclick">Click for Answer</string>
+</resources>

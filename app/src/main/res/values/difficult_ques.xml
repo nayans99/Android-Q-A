@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dif_ques">
+
+        <item> Why can’t you run standard Java bytecode on Android? </item>
+        <item> What is the difference between a regular .png and a nine-patch image? </item>
+        <item> Why can’t you run standard Java bytecode on Android? </item>
+        <item> What is the difference between a regular .png and a nine-patch image? </item>
+        <item> Why can’t you run standard Java bytecode on Android? </item>
+        <item> What is the difference between a regular .png and a nine-patch image? </item>
+        <item> Why can’t you run standard Java bytecode on Android? </item>
+        <item> What is the difference between a regular .png and a nine-patch image? </item>
+        <item> Why can’t you run standard Java bytecode on Android? </item>
+        <item> What is the difference between a regular .png and a nine-patch image? </item>
+        <item> Why can’t you run standard Java bytecode on Android? </item>
+        <item> What is the difference between a regular .png and a nine-patch image? </item>
+        <item> Why can’t you run standard Java bytecode on Android? </item>
+        <item> What is the difference between a regular .png and a nine-patch image? </item>
+    </string-array>
+
+
+</resources>

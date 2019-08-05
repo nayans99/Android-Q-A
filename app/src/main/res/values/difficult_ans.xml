@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="dif_ans">
+
+        <item> Android does not use the traditional Java Virtual Machine. Instead, it uses Dalvik Virtual Machine that uses a special
+            bytecode. That is why we cannot execute standard Java programs on an Android device. DVM is optimized for mobile devices.
+            It optimizes the virtual machine for memory, performance and battery life. The applications that can run on Android are
+            .apk files. It is a unique compiled code that stands for Android Package.
+            You can develop your code in Java. But you need to change the .jar files to .apk files before you can run your program
+            in Android. The android tool called dx tool or the Dex compiler converts the Java class files into .dex files that can run
+            on DVM. Android Assets Packaging Tool converts the .dex files in .apk files. </item>
+        <item> A nine patch image is a stretchable bitmap image that can be used as a background of a view. Android automatically resizes
+            the image to accommodate the content of the view. The nine patch image helps android in its goal to support a variety of
+            different screen sizes. The main difference between a regular .png and nine patch image is that the latter includes an extra
+            1-pixel border around the image that determines where the image can be stretched to meet the specific layout constraints. The
+            image can be divided into 9 sections. The 4 corners are static, the 4 edges are scaled in 1 axis and the center one can be
+            scaled in both the axis. The extension of the nine patch images is .9.png. </item>
+        <item> Android does not use the traditional Java Virtual Machine. Instead, it uses Dalvik Virtual Machine that uses a special
+            bytecode. That is why we cannot execute standard Java programs on an Android device. DVM is optimized for mobile devices.
+            It optimizes the virtual machine for memory, performance and battery life. The applications that can run on Android are
+            .apk files. It is a unique compiled code that stands for Android Package.
+            You can develop your code in Java. But you need to change the .jar files to .apk files before you can run your program
+            in Android. The android tool called dx tool or the Dex compiler converts the Java class files into .dex files that can run
+            on DVM. Android Assets Packaging Tool converts the .dex files in .apk files. </item>
+        <item> A nine patch image is a stretchable bitmap image that can be used as a background of a view. Android automatically resizes
+            the image to accommodate the content of the view. The nine patch image helps android in its goal to support a variety of
+            different screen sizes. The main difference between a regular .png and nine patch image is that the latter includes an extra
+            1-pixel border around the image that determines where the image can be stretched to meet the specific layout constraints. The
+            image can be divided into 9 sections. The 4 corners are static, the 4 edges are scaled in 1 axis and the center one can be
+            scaled in both the axis. The extension of the nine patch images is .9.png. </item>
+        <item> Android does not use the traditional Java Virtual Machine. Instead, it uses Dalvik Virtual Machine that uses a special
+            bytecode. That is why we cannot execute standard Java programs on an Android device. DVM is optimized for mobile devices.
+            It optimizes the virtual machine for memory, performance and battery life. The applications that can run on Android are
+            .apk files. It is a unique compiled code that stands for Android Package.
+            You can develop your code in Java. But you need to change the .jar files to .apk files before you can run your program
+            in Android. The android tool called dx tool or the Dex compiler converts the Java class files into .dex files that can run
+            on DVM. Android Assets Packaging Tool converts the .dex files in .apk files. </item>
+        <item> A nine patch image is a stretchable bitmap image that can be used as a background of a view. Android automatically resizes
+            the image to accommodate the content of the view. The nine patch image helps android in its goal to support a variety of
+            different screen sizes. The main difference between a regular .png and nine patch image is that the latter includes an extra
+            1-pixel border around the image that determines where the image can be stretched to meet the specific layout constraints. The
+            image can be divided into 9 sections. The 4 corners are static, the 4 edges are scaled in 1 axis and the center one can be
+            scaled in both the axis. The extension of the nine patch images is .9.png. </item>
+        <item> Android does not use the traditional Java Virtual Machine. Instead, it uses Dalvik Virtual Machine that uses a special
+            bytecode. That is why we cannot execute standard Java programs on an Android device. DVM is optimized for mobile devices.
+            It optimizes the virtual machine for memory, performance and battery life. The applications that can run on Android are
+            .apk files. It is a unique compiled code that stands for Android Package.
+            You can develop your code in Java. But you need to change the .jar files to .apk files before you can run your program
+            in Android. The android tool called dx tool or the Dex compiler converts the Java class files into .dex files that can run
+            on DVM. Android Assets Packaging Tool converts the .dex files in .apk files. </item>
+        <item> A nine patch image is a stretchable bitmap image that can be used as a background of a view. Android automatically resizes
+            the image to accommodate the content of the view. The nine patch image helps android in its goal to support a variety of
+            different screen sizes. The main difference between a regular .png and nine patch image is that the latter includes an extra
+            1-pixel border around the image that determines where the image can be stretched to meet the specific layout constraints. The
+            image can be divided into 9 sections. The 4 corners are static, the 4 edges are scaled in 1 axis and the center one can be
+            scaled in both the axis. The extension of the nine patch images is .9.png. </item>
+        <item> Android does not use the traditional Java Virtual Machine. Instead, it uses Dalvik Virtual Machine that uses a special
+            bytecode. That is why we cannot execute standard Java programs on an Android device. DVM is optimized for mobile devices.
+            It optimizes the virtual machine for memory, performance and battery life. The applications that can run on Android are
+            .apk files. It is a unique compiled code that stands for Android Package.
+            You can develop your code in Java. But you need to change the .jar files to .apk files before you can run your program
+            in Android. The android tool called dx tool or the Dex compiler converts the Java class files into .dex files that can run
+            on DVM. Android Assets Packaging Tool converts the .dex files in .apk files. </item>
+        <item> A nine patch image is a stretchable bitmap image that can be used as a background of a view. Android automatically resizes
+            the image to accommodate the content of the view. The nine patch image helps android in its goal to support a variety of
+            different screen sizes. The main difference between a regular .png and nine patch image is that the latter includes an extra
+            1-pixel border around the image that determines where the image can be stretched to meet the specific layout constraints. The
+            image can be divided into 9 sections. The 4 corners are static, the 4 edges are scaled in 1 axis and the center one can be
+            scaled in both the axis. The extension of the nine patch images is .9.png. </item>
+        <item> Android does not use the traditional Java Virtual Machine. Instead, it uses Dalvik Virtual Machine that uses a special
+            bytecode. That is why we cannot execute standard Java programs on an Android device. DVM is optimized for mobile devices.
+            It optimizes the virtual machine for memory, performance and battery life. The applications that can run on Android are
+            .apk files. It is a unique compiled code that stands for Android Package.
+            You can develop your code in Java. But you need to change the .jar files to .apk files before you can run your program
+            in Android. The android tool called dx tool or the Dex compiler converts the Java class files into .dex files that can run
+            on DVM. Android Assets Packaging Tool converts the .dex files in .apk files. </item>
+        <item> A nine patch image is a stretchable bitmap image that can be used as a background of a view. Android automatically resizes
+            the image to accommodate the content of the view. The nine patch image helps android in its goal to support a variety of
+            different screen sizes. The main difference between a regular .png and nine patch image is that the latter includes an extra
+            1-pixel border around the image that determines where the image can be stretched to meet the specific layout constraints. The
+            image can be divided into 9 sections. The 4 corners are static, the 4 edges are scaled in 1 axis and the center one can be
+            scaled in both the axis. The extension of the nine patch images is .9.png. </item>
+        <item> Android does not use the traditional Java Virtual Machine. Instead, it uses Dalvik Virtual Machine that uses a special
+            bytecode. That is why we cannot execute standard Java programs on an Android device. DVM is optimized for mobile devices.
+            It optimizes the virtual machine for memory, performance and battery life. The applications that can run on Android are
+            .apk files. It is a unique compiled code that stands for Android Package.
+            You can develop your code in Java. But you need to change the .jar files to .apk files before you can run your program
+            in Android. The android tool called dx tool or the Dex compiler converts the Java class files into .dex files that can run
+            on DVM. Android Assets Packaging Tool converts the .dex files in .apk files. </item>
+        <item> A nine patch image is a stretchable bitmap image that can be used as a background of a view. Android automatically resizes
+            the image to accommodate the content of the view. The nine patch image helps android in its goal to support a variety of
+            different screen sizes. The main difference between a regular .png and nine patch image is that the latter includes an extra
+            1-pixel border around the image that determines where the image can be stretched to meet the specific layout constraints. The
+            image can be divided into 9 sections. The 4 corners are static, the 4 edges are scaled in 1 axis and the center one can be
+            scaled in both the axis. The extension of the nine patch images is .9.png. </item>
+    </string-array>
+</resources>

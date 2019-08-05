@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sim_ques">
+
+        <item> What is Android? </item>
+        <item> What is SDK? </item>
+        <item> What is Android? </item>
+        <item> What is SDK? </item>
+        <item> What is Android? </item>
+        <item> What is SDK? </item>
+        <item> What is Android? </item>
+        <item> What is SDK? </item>
+        <item> What is Android? </item>
+        <item> What is SDK? </item>
+        <item> What is Android? </item>
+        <item> What is SDK? </item>
+        <item> What is Android? </item>
+        <item> What is SDK? </item>
+    </string-array>
+
+
+</resources>

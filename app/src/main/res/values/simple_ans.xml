@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sim_ans">
+
+        <item> Android is a mobile operating system developed by Google. </item>
+        <item> Software Development Kit. </item>
+        <item> Android is a mobile operating system developed by Google. </item>
+        <item> Software Development Kit. </item>
+        <item> Android is a mobile operating system developed by Google. </item>
+        <item> Software Development Kit. </item>
+        <item> Android is a mobile operating system developed by Google. </item>
+        <item> Software Development Kit. </item>
+        <item> Android is a mobile operating system developed by Google. </item>
+        <item> Software Development Kit. </item>
+        <item> Android is a mobile operating system developed by Google. </item>
+        <item> Software Development Kit. </item>
+        <item> Android is a mobile operating system developed by Google. </item>
+        <item> Software Development Kit. </item>
+    </string-array>
+
+</resources>
